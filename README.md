@@ -1,6 +1,8 @@
 cliz
 ====
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DoG-peer/cliz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DSL for CLI, using gviz for drawing pictures
 
 How to Use
